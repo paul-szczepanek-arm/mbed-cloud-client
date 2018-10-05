@@ -5,9 +5,6 @@
         "MBEDTLS_CMAC_C",
         "MBEDTLS_CIPHER_MODE_CTR",
         "SA_PV_PLAT_K64F_MBEDOS_GNUC",
-        "PB_FIELD_32BIT",
-        "PB_ENABLE_MALLOC",
-        "PB_BUFFER_ONLY",
         "PV_PROFILE_STD"
     ],
     "target_overrides": {
